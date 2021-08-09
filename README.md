@@ -1,3 +1,1 @@
-# MSSC Beer Service
-
-Spring Boot Microservice example
+[![CircleCI](https://circleci.com/gh/proplaner/mssc-beer-service/tree/master.svg?style=svg)](https://circleci.com/gh/proplaner/mssc-beer-service/tree/master)
